@@ -2,6 +2,7 @@
 using Kentico.PageBuilder.Web.Mvc;
 using Kentico.Web.Mvc;
 using Kickstart;
+using Kickstart.Web.Features.Navigation;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -25,6 +26,8 @@ builder.Services.AddAuthentication();
 
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddSingleton<INavigationService, NavigationService>();
+
 var app = builder.Build();
 app.InitKentico();
 
@@ -40,6 +43,6 @@ app.UseKentico();
 
 app.Kentico().MapRoutes();
 
-// app.MapGet("/", () => "The Kickstart.Web site has not been configured yet.");
+//app.MapGet("/", () => "The Kickstart.Web site has not been configured yet.");
 
 app.Run();
