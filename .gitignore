@@ -16,7 +16,7 @@
 *.DotSettings.user
 *.sln.docstates
 .vs
-license.txt
+license.lic
 
 # Build results
 
