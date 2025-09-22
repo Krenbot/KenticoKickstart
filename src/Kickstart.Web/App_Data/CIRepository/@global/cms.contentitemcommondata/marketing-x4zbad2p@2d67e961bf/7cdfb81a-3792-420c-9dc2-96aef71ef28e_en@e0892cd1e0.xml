@@ -10,7 +10,9 @@
     <GUID>1dbc0a03-c8cc-4eaa-87a1-c3289331f638</GUID>
     <ObjectType>cms.contentlanguage</ObjectType>
   </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2025-09-22 02:41:51Z</ContentItemCommonDataFirstPublishedWhen>
   <ContentItemCommonDataGUID>7cdfb81a-3792-420c-9dc2-96aef71ef28e</ContentItemCommonDataGUID>
   <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
-  <ContentItemCommonDataVersionStatus>0</ContentItemCommonDataVersionStatus>
+  <ContentItemCommonDataLastPublishedWhen>2025-09-22 02:41:51Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
 </cms.contentitemcommondata>
