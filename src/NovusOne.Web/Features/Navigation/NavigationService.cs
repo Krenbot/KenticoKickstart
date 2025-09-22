@@ -2,7 +2,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using CMS.Websites;
 using Kentico.Content.Web.Mvc.Routing;
-using Microsoft.IdentityModel.Tokens;
 
 namespace NovusOne.Web.Features.Navigation;
 
@@ -24,7 +23,10 @@ public class NavigationService : INavigationService
         NavigationItem navigationItem
     )
     {
-        if (navigationItem?.NavigationItemTarget?.IsNullOrEmpty() ?? true)
+        if (
+            navigationItem?.NavigationItemTarget == null
+            || !navigationItem.NavigationItemTarget.Any()
+        )
         {
             return null;
         }
@@ -47,7 +49,10 @@ public class NavigationService : INavigationService
         NavigationMenu navigationMenu
     )
     {
-        if (navigationMenu?.NavigationMenuItems?.IsNullOrEmpty() ?? true)
+        if (
+            navigationMenu?.NavigationMenuItems == null
+            || !navigationMenu.NavigationMenuItems.Any()
+        )
         {
             return null;
         }
