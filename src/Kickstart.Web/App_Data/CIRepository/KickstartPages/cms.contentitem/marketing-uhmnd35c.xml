@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitem>
+  <ContentItemChannelID>
+    <CodeName>KickstartPages</CodeName>
+    <GUID>165e7dc9-83bb-429a-b3a8-b55b46bd3e10</GUID>
+    <ObjectType>cms.channel</ObjectType>
+  </ContentItemChannelID>
+  <ContentItemContentTypeID>
+    <CodeName>Kickstart.LandingPage</CodeName>
+    <GUID>2348c5e1-fefe-4ba3-a96c-63846ff0958c</GUID>
+    <ObjectType>cms.contenttype</ObjectType>
+  </ContentItemContentTypeID>
+  <ContentItemGUID>f06ef4fb-4df5-49ce-826c-da44038408cf</ContentItemGUID>
+  <ContentItemIsReusable>False</ContentItemIsReusable>
+  <ContentItemIsSecured>False</ContentItemIsSecured>
+  <ContentItemName>Marketing-uhmnd35c</ContentItemName>
+</cms.contentitem>

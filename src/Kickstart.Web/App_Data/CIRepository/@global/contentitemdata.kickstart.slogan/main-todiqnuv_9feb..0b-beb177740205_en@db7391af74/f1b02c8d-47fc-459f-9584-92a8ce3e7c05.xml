@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.kickstart.slogan>
+  <ContentItemDataCommonDataID>
+    <GUID>9feb931e-5b3b-4ecf-920b-beb177740205</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>Main-todiqnuv</CodeName>
+      <GUID>269ae74f-a4f8-42d9-9862-fb494926bf4c</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>f1b02c8d-47fc-459f-9584-92a8ce3e7c05</ContentItemDataGUID>
+  <SloganText>Hello from Main!</SloganText>
+</contentitemdata.kickstart.slogan>

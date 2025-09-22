@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.webpageitem>
+  <WebPageItemContentItemID>
+    <CodeName>Underwriting-wthyr0i2</CodeName>
+    <GUID>629aa9f0-2a2e-4bc0-b203-17935f879282</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </WebPageItemContentItemID>
+  <WebPageItemGUID>1b6173cc-d1f7-40f4-9efd-bd5689f01d94</WebPageItemGUID>
+  <WebPageItemName>Underwriting-wthyr0i2</WebPageItemName>
+  <WebPageItemOrder>4</WebPageItemOrder>
+  <WebPageItemTreePath>/Underwriting</WebPageItemTreePath>
+  <WebPageItemWebsiteChannelID>
+    <GUID>ce54dd23-44b3-44b8-acc4-d9713953a7fc</GUID>
+    <ObjectType>cms.websitechannel</ObjectType>
+    <Parent>
+      <CodeName>KickstartPages</CodeName>
+      <GUID>165e7dc9-83bb-429a-b3a8-b55b46bd3e10</GUID>
+      <ObjectType>cms.channel</ObjectType>
+    </Parent>
+  </WebPageItemWebsiteChannelID>
+</cms.webpageitem>
