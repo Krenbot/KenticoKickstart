@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.contentitemcommondata>
+  <ContentItemCommonDataContentItemID>
+    <CodeName>Main-ziqg88yf</CodeName>
+    <GUID>6cb7d7fa-6a3a-4a45-8735-707aedbef66e</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </ContentItemCommonDataContentItemID>
+  <ContentItemCommonDataContentLanguageID>
+    <CodeName>en</CodeName>
+    <GUID>1dbc0a03-c8cc-4eaa-87a1-c3289331f638</GUID>
+    <ObjectType>cms.contentlanguage</ObjectType>
+  </ContentItemCommonDataContentLanguageID>
+  <ContentItemCommonDataFirstPublishedWhen>2025-09-22 02:18:43Z</ContentItemCommonDataFirstPublishedWhen>
+  <ContentItemCommonDataGUID>7659a44b-2f41-415c-b0f6-867819e804e0</ContentItemCommonDataGUID>
+  <ContentItemCommonDataIsLatest>True</ContentItemCommonDataIsLatest>
+  <ContentItemCommonDataLastPublishedWhen>2025-09-22 02:21:28Z</ContentItemCommonDataLastPublishedWhen>
+  <ContentItemCommonDataVersionStatus>2</ContentItemCommonDataVersionStatus>
+  <ContentItemCommonDataVisualBuilderTemplateConfiguration>
+    <![CDATA[{"identifier":"NovusOne.LandingPagePageTemplate","properties":null,"fieldIdentifiers":{}}]]>
+  </ContentItemCommonDataVisualBuilderTemplateConfiguration>
+  <ContentItemCommonDataVisualBuilderWidgets>
+    <![CDATA[{"editableAreas":[{"identifier":"areaMain","sections":[{"identifier":"ac3d48b8-17fe-4945-8abf-677e0c71d56a","type":"Kentico.DefaultSection","properties":null,"zones":[{"identifier":"e324a381-1e79-43a2-9424-32c3c1a68877","widgets":[{"identifier":"7c06f7d9-1210-481d-a8c2-bd758b02f295","type":"Kentico.Widget.RichText","variants":[{"identifier":"81d0016b-78cc-41cc-afa1-b2e9588b258f","properties":{"content":"<p>This is the content from the main page! Hello!</p>"},"fieldIdentifiers":{"content":"ef678b99-fe3f-49e2-b8df-015dd4ffab5f"}}]}]}],"fieldIdentifiers":{}}]}]}]]>
+  </ContentItemCommonDataVisualBuilderWidgets>
+  <ContentItemReferences>
+    <cms.contentitemreference>
+      <ContentItemReferenceGroupGUID>1fec9acb-89d1-4812-ac7f-4f20437e121d</ContentItemReferenceGroupGUID>
+      <ContentItemReferenceGUID>d9b46050-0d57-439a-b112-40890b8ced91</ContentItemReferenceGUID>
+      <ContentItemReferenceSourceCommonDataID>
+        <GUID>7659a44b-2f41-415c-b0f6-867819e804e0</GUID>
+        <ObjectType>cms.contentitemcommondata</ObjectType>
+      </ContentItemReferenceSourceCommonDataID>
+      <ContentItemReferenceTargetItemID>
+        <CodeName>Main-todiqnuv</CodeName>
+        <GUID>269ae74f-a4f8-42d9-9862-fb494926bf4c</GUID>
+        <ObjectType>cms.contentitem</ObjectType>
+      </ContentItemReferenceTargetItemID>
+    </cms.contentitemreference>
+  </ContentItemReferences>
+</cms.contentitemcommondata>

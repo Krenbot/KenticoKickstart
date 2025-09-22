@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.webpageitem>
+  <WebPageItemContentItemID>
+    <CodeName>Main-ziqg88yf</CodeName>
+    <GUID>6cb7d7fa-6a3a-4a45-8735-707aedbef66e</GUID>
+    <ObjectType>cms.contentitem</ObjectType>
+  </WebPageItemContentItemID>
+  <WebPageItemGUID>9494e33c-6d14-4c2b-958a-bd5eeb225f11</WebPageItemGUID>
+  <WebPageItemName>Main-ziqg88yf</WebPageItemName>
+  <WebPageItemOrder>1</WebPageItemOrder>
+  <WebPageItemTreePath>/Main</WebPageItemTreePath>
+  <WebPageItemWebsiteChannelID>
+    <GUID>ce54dd23-44b3-44b8-acc4-d9713953a7fc</GUID>
+    <ObjectType>cms.websitechannel</ObjectType>
+    <Parent>
+      <CodeName>NovusOnePages</CodeName>
+      <GUID>165e7dc9-83bb-429a-b3a8-b55b46bd3e10</GUID>
+      <ObjectType>cms.channel</ObjectType>
+    </Parent>
+  </WebPageItemWebsiteChannelID>
+</cms.webpageitem>

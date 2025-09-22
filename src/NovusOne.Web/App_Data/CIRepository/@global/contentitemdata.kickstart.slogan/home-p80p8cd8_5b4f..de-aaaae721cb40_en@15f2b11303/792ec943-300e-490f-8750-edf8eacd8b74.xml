@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentitemdata.NovusOne.slogan>
+  <ContentItemDataCommonDataID>
+    <GUID>5b4f6c72-2ad4-4f46-98de-aaaae721cb40</GUID>
+    <ObjectType>cms.contentitemcommondata</ObjectType>
+    <Parent>
+      <CodeName>Home-p80p8cd8</CodeName>
+      <GUID>4bec8f94-845c-44b9-ac34-8b2bc435bb0f</GUID>
+      <ObjectType>cms.contentitem</ObjectType>
+    </Parent>
+  </ContentItemDataCommonDataID>
+  <ContentItemDataGUID>792ec943-300e-490f-8750-edf8eacd8b74</ContentItemDataGUID>
+  <SloganText>Welcome to the NovusOne home page!</SloganText>
+</contentitemdata.NovusOne.slogan>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cms.channel>
+  <ChannelDisplayName>NovusOne</ChannelDisplayName>
+  <ChannelGUID>165e7dc9-83bb-429a-b3a8-b55b46bd3e10</ChannelGUID>
+  <ChannelName>NovusOnePages</ChannelName>
+  <ChannelSize>Standard</ChannelSize>
+  <ChannelType>Website</ChannelType>
+</cms.channel>
